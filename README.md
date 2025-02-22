@@ -18,8 +18,7 @@ The dataset used in this project is sourced from Kaggle. It contains detailed pr
 
 1. Clone the repository
    ```
-   git clone https://github.com/Demand-Forecasting-and-Price-Optimization
-.git
+   git clone https://github.com/Demand-Forecasting-and-Price-Optimization.git
 
 
 3. Run the main script in jupyter notebook
