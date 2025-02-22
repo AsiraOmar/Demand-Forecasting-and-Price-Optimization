@@ -20,9 +20,9 @@ The dataset used in this project is sourced from Kaggle. It contains detailed pr
    ```
    git clone https://github.com/Demand-Forecasting-and-Price-Optimization
 .git
-   ```
 
-2. Run the main script in jupyter notebook
+
+3. Run the main script in jupyter notebook
 
 ## Usage
 
